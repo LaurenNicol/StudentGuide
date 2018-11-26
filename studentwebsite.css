@@ -1,0 +1,12 @@
+.checkFont {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+.w3-quarter {
+text-align: right;
+}
+
+img {
+  height: 120px;
+  width: 150px;
+}
