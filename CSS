@@ -2,7 +2,11 @@
   text-align: center;
   font-family: "Times New Roman", Times, serif;
 }
-.w3-quarter { 
+.w3-quarter {
 text-align: right;
-  background-color: purple;
+}
+
+img {
+  height: 120px;
+  width: 150px;
 }
